@@ -1,0 +1,12 @@
+NewData
+16.01.2013
+12
+C:\Users\Малик\Documents\Проект КИС для РСС\scanMaster\Первичный проект Delphi\\Data\Накладные\2013-01-16_12_1.jpg
+NewData
+16.01.2013
+12
+C:\Users\Малик\Documents\Проект КИС для РСС\scanMaster\Первичный проект Delphi\\Data\Накладные\2013-01-16_12_2.jpg
+NewData
+16.01.2013
+34
+C:\Users\Малик\Documents\Проект КИС для РСС\scanMaster\Первичный проект Delphi\\Data\Накладные\2013-01-16_34_1.jpg
